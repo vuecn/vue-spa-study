@@ -2,10 +2,10 @@
 ****
 
 
-## 1.安装(个人喜欢npm的方式)
+## 1.安装
 ```
-npm install vue --save
-npm install vue-router
+npm install
+
 ```
 
 ## 2.跟着文档学吧
